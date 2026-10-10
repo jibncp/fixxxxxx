@@ -1,0 +1,6 @@
+{
+  "name": "Taller Fix - Sistema de Gestión Técnica y POS",
+  "description": "Sistema integral de órdenes de trabajo, punto de venta, inventario con códigos de barras, kardex, caja y seguimiento por QR para talleres de reparación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
